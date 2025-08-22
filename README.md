@@ -1,4 +1,5 @@
 # shopzen.github.io
 
 🚀 Live Demo
-🌐 HopZen : shopzen-007.netlify.app
+
+🌐 ShopZen :   shopzen-007.netlify.app
