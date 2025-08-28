@@ -2,6 +2,6 @@
 
 🚀 Live Demo
 
-[shopzen-009.netlify.app](shopzen-009.netlify.app)
+[shopzen](shopzen-009.netlify.app)
 
 updating soon...
