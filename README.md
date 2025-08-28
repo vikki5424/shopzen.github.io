@@ -2,6 +2,6 @@
 
 🚀 Live Demo
 
-[shopzen](https://shopzen-009.netlify.app)
-[www.youtube.com](https://www.youtube.com/)
+[shopzen-009.netlify.app](https://shopzen-009.netlify.app)
+
 updating soon...
